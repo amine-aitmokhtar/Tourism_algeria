@@ -1,4 +1,4 @@
-![Vitrine du Dashboard](./.idea/Dashboard.jpg)
+![Vitrine du Dashboard](./algeria-tourism-frontend/Algeriawebsite.png)
 
 Description du projet :
 
