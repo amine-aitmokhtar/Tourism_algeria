@@ -1,56 +1,23 @@
-**Project Description:**
+Description du projet :
 
-AlgeriaTour is a web application designed to promote tourism in Algeria. It provides users with information about various tourist destinations, cultural sites, hotels, restaurants, and The app aims to encourage tourism, both domestic and international, by showcasing the beauty and diversity of Algeria.
+AlgeriaTourTrip est une application web conçue pour promouvoir le tourisme en Algérie. Elle offre aux utilisateurs des informations sur diverses destinations touristiques, sites culturels, hôtels, restaurants, et autres. L'application vise à encourager le tourisme, tant domestique qu'international, en mettant en valeur la beauté et la diversité de l'Algérie.
 
-**Objectives:**
+Objectifs :
 
-- To create an engaging and informative platform that highlights Algeria's tourist attractions.
-- To provide users with detailed information about places of interest, accommodations (hébergements), dining (makla) options, and activities.
-- To encourage user-generated content, such as reviews and ratings.
-- To enable users to plan their trips and explore Algeria's cultural and natural wonders.
+Créer une plateforme engageante et informative qui met en avant les attractions touristiques de l'Algérie.
+Fournir aux utilisateurs des informations détaillées sur les lieux d'intérêt, les hébergements, les options de restauration, et les activités.
+Encourager le contenu généré par les utilisateurs, comme les avis et les évaluations.
+Permettre aux utilisateurs de planifier leurs voyages et d'explorer les merveilles culturelles et naturelles de l'Algérie.
+Public cible :
 
-**Target Audience:**
+Les touristes planifiant une visite en Algérie.
+Les passionnés de voyage intéressés par la découverte des attractions uniques de l'Algérie.
+Les voyageurs d'affaires cherchant des hébergements et des options de restauration.
+Les résidents algériens à la recherche d'informations sur le tourisme local.
+Stack technologique :
 
-- Tourists planning a visit to Algeria.
-- Travel enthusiasts interested in exploring Algeria's unique attractions.
-- Business travelers looking for accommodation and dining options.
-- Algerian residents seeking information about local tourism.
-
-**Features and Functionality:**
-
-- **User Registration and Authentication**
-    1. Allow users to create accounts and log in securely
-    2. Enable users to manage their profiles, including profile pictures and personal information.
-- **Browse Destinations**
-    1. Display a list of tourist destinationsin each region
-    2. Provide detailed information, images, and user-generated content for each destination.
-- **Accommodation**
-    1. List hotels and accommodations at each destination.
-    2. List the most famous traditional foods and where can you eat them.
-- **Activities and Events**
-    1. Highlight activities, events, and attractions at each destination (ex: sablette, parks, museums….)
-    2. Allow users to view event details and schedule (open time, close time, working days…) (google map API)
-- **User Reviews and Ratings**
-    1. User can post comments and give reviews on destinations, places, restaus ext..
-    2. in future we can AI system to filters comments
-- **Search and Filters**
-    1. Implement a robust search functionality with filters for destinations, accommodations, and dining options.
-- **Contact Us page**
-    1. a page with a form for people to reaching us
-- **Admin Features**
-    1. **Admin Dashboard :** Provide an admin dashboard to manage user-generated content, users, and site statistics.
-    2. **Content Management :** Allow admins to add, edit, or delete destinations, accommodations, and dining options.
-    3. **User Management :** Enable admins to manage user accounts and access
-- **Additional Features**
-    1. **Multi-Language Support**
-    2. **Responsive Design**
-    3. **Interactive Maps :** [for exemple the map lte7t in this website](https://discover-algeria-country.netlify.app)
-    4. **Interactive Forums :** Create discussion forums or communities where travelers can ask questions, share tips, and connect with others.
-
-**Technology Stack**
-
-- UI / UX : Figma
-- Frontend: React.js
-- Backend: Node.js (Express.js)
-- Database: MongoDB
-- Authentication: JSON Web Tokens (JWT)
+UI / UX : Figma
+Frontend : React.js
+Backend : Node.js
+Base de données : MongoDB
+Authentification : JSON Web Tokens (JWT)
