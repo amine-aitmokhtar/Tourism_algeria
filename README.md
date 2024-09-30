@@ -1,3 +1,5 @@
+![Vitrine du Dashboard](./.idea/Dashboard.jpg)
+
 Description du projet :
 
 AlgeriaTourTrip est une application web conçue pour promouvoir le tourisme en Algérie. Elle offre aux utilisateurs des informations sur diverses destinations touristiques, sites culturels, hôtels, restaurants, et autres. L'application vise à encourager le tourisme, tant domestique qu'international, en mettant en valeur la beauté et la diversité de l'Algérie.
